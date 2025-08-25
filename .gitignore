@@ -1,0 +1,40 @@
+# ===================== #
+#  Archivos de Python   #
+# ===================== #
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de compilación de Cython
+*.c
+*.cpp
+*.so
+
+# ===================== #
+#   Archivos del IDE    #
+# ===================== #
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# ===================== #
+#   Entornos virtuales  #
+# ===================== #
+venv/
+ENV/
+env/
+.venv/
+
+# ===================== #
+#   Archivos de sistema #
+# ===================== #
+.DS_Store
+Thumbs.db
+
+# ===================== #
+#   Archivos sensibles  #
+# ===================== #
+*.env
